@@ -11,7 +11,7 @@ Linguagens e tecnologias utilizadas no projeto:
 <li>CSS</li>
 </ul>
 
-<div style="text-align=center" > 
+<div style="text-align:center" > 
 <img src="https://github.com/ChristopherHauschild/projeto-calculadora-vueJS/blob/master/calculator.PNG"/>
 </div>
 
