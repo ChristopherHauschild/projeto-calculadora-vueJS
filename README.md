@@ -11,6 +11,8 @@ Linguagens e tecnologias utilizadas no projeto:
 <li>CSS</li>
 </ul>
 
-<img style="align=center" src="https://github.com/ChristopherHauschild/projeto-calculadora-vueJS/blob/master/calculator.PNG"/>
+<div style="text-align=center" > 
+<img src="https://github.com/ChristopherHauschild/projeto-calculadora-vueJS/blob/master/calculator.PNG"/>
+</div>
 
 O repositório das atividades desenvolvidas no curso pode ser acessado <a href="https://github.com/ChristopherHauschild/curso-web-moderno-cod3r">aqui</a>
